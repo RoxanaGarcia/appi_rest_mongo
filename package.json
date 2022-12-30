@@ -1,0 +1,26 @@
+{
+  "name": "appi_rest_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoxanaGarcia/appi_rest_mongo.git"
+  },
+  "keywords": [],
+  "author": "Roxana E Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoxanaGarcia/appi_rest_mongo/issues"
+  },
+  "homepage": "https://github.com/RoxanaGarcia/appi_rest_mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  }
+}
